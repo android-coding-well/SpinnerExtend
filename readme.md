@@ -1,16 +1,22 @@
-# GitHub上readme模板
-
-
+# Android Spinner 扩展
 
 ---
-![image](https://github.com/huweijian5/SegmentBarDemo/blob/master/screenshots/device-2016-09-28-230043.png)
-
+## 效果展示
+![image](screenshots/12.png)
+![image](screenshots/12.gif)
 ---
 ## 介绍说明
+* 扩展了重复选择触发监听事件
 ---
 ## 使用说明
-
-
+* 使用方式非常简单，将Android原生Spinner替换为SpinnerExtend即可
+```xml
+ <com.gosuncn.spne.SpinnerExtend
+        android:id="@+id/spinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+```
+* 另外，如果想关闭重选监听，可通过接口SpinnerExtend.enableRepeatSelected(false)进行设置
 ---
 ## JavaDoc文档
 

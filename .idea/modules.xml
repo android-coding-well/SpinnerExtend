@@ -4,7 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SpinnerExtend.iml" filepath="$PROJECT_DIR$/SpinnerExtend.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lib_spinner_extend/mylib.iml" filepath="$PROJECT_DIR$/lib_spinner_extend/mylib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_spinner_extend/lib_spinner_extend.iml" filepath="$PROJECT_DIR$/lib_spinner_extend/lib_spinner_extend.iml" />
+      <module fileurl="file://G:\code\github\SpinnerExtend\lib_spinner_extend\mylib.iml" filepath="G:\code\github\SpinnerExtend\lib_spinner_extend\mylib.iml" />
     </modules>
   </component>
 </project>
